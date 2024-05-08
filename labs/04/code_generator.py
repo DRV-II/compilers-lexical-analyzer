@@ -26,6 +26,6 @@ z = x + 3.2
 // I am a comment
 p z"""]
 
-# Print a random string from the list
+# Print a random sample from the list
 print(random.choice(choices))
 
